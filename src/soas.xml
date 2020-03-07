@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CstmrCdtTrfInitn>
+    <GrpHdr>
+        <MsgId>012722</MsgId>
+        <CreDtTm>20030613</CreDtTm>
+        <TpTxInd>016000</TpTxInd>
+        <NbOfTxs>1</NbOfTxs>
+        <CtrlSum>20.0</CtrlSum>
+        <TxRev>false</TxRev>
+        <InitgPty>
+            <Nm>RED PERU</Nm>
+            <PstlAdr>
+                <Dept>PICHINCHA</Dept>
+                <SubDept>CHAUPI CRUZ</SubDept>
+                <StrtNm>Avenida República</StrtNm>
+                <BldgNb>N12-13</BldgNb>
+                <PstCd>VC022000</PstCd>
+                <Ctry>PE</Ctry>
+            </PstlAdr>
+            <Id>
+                <OrgId>
+                    <Id>60486951099</Id>
+                </OrgId>
+            </Id>
+        </InitgPty>
+        <Pla>false</Pla>
+        <NumberReference>747</NumberReference>
+        <CardPayment>false</CardPayment>
+    </GrpHdr>
+    <PmtInf>
+        <Id>012722</Id>
+        <ReqdExctnDt>
+            <Dt>200306</Dt>
+        </ReqdExctnDt>
+        <DbtrAcct>
+            <Id>60486951012|1258546893003000</Id>
+            <Pty>
+                <Nm></Nm>
+                <Id>12345555</Id>
+                <DtBrn>00010101</DtBrn>
+            </Pty>
+        </DbtrAcct>
+        <DbtrAgt>
+            <FinInstnId>
+                <BICFI>60486951012</BICFI>
+            </FinInstnId>
+        </DbtrAgt>
+        <DbtrAgtAcct>
+            <Id/>
+        </DbtrAgtAcct>
+        <Amt>
+            <Amt>20.0</Amt>
+            <CcyOfTrf>604</CcyOfTrf>
+            <Fee>0.0</Fee>
+        </Amt>
+        <SplmtryData>
+            <Envlp>25290C45A62A8050B83C4EAADB5FC20D</Envlp>
+            <PlainCardData15/>
+            <PlcAndNm>ADMINISTRACION TARJETA MELIMA         PE</PlcAndNm>
+        </SplmtryData>
+        <OnLinePIN4/>
+    </PmtInf>
+</CstmrCdtTrfInitn>
